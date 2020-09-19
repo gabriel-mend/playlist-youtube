@@ -12,9 +12,22 @@ Este é um repositório que tem objetivo de listar conteúdos de programação g
 * <a href="">Javascript</a>
 
 ## React JS
-Titulo | Link
+Titulo    | Link
 --------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+Homepage Animada do Typeform com Framer Motion (ReactJS) UI Clone | https://www.youtube.com/watch?v=O2xM5H7Ooj4
+Página de produto do Mercado Livre com (ReactJS) UI Clone | https://www.youtube.com/watch?v=APs_xQ2hUOE
+LinkedIn e Shimmer Effect no ReactJS UI Clone | https://www.youtube.com/watch?v=-ZV-_7vNRGw
+
+## React Native
+Interface da Twitch.tv no React Native UI Clone |https://www.youtube.com/watch?v=bJVp_vlvMwQ
+
+## HTML
+Titulo    | Link
+--------- | ------
+HTML5 Canvas e JavaScript para manipular imagens CodeDrops #53 | https://www.youtube.com/watch?v=-RWPvVcYAC4
+
+## Javascript
+Titulo    | Link
+--------- | ------
+Armazenando dados no Navegador com localStorage Code/Drops #49 | https://www.youtube.com/watch?v=De5np8phQxo
+
