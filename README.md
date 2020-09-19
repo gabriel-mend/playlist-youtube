@@ -36,7 +36,7 @@ Armazenando dados no Navegador com localStorage Code/Drops #49 | https://www.you
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/loadingGabriel/">
+      <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/">
         <img src="https://avatars0.githubusercontent.com/u/49095200?s=460&u=c1bf40237efc7e4432b01f61cfac4dab28b189ec&v=4" width="100px;" alt="Gabriel Mendonça"/>
         <br />
         <sub>
@@ -44,8 +44,9 @@ Armazenando dados no Navegador com localStorage Code/Drops #49 | https://www.you
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/" title="Code">@LoadingGabriel</a>
+       <a href="https://github.com/loadingGabriel/" title="Code">@LoadingGabriel</a>
     </td>
   </tr>
 </table>
-**Curtiu a ideia?** deixe seu feedback é contribua!
+
+<p><strong>Curtiu a ideia?</strong> deixe seu feedback é contribua!</p>
