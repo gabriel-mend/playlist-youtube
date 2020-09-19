@@ -31,3 +31,21 @@ Titulo    | Link
 --------- | ------
 Armazenando dados no Navegador com localStorage Code/Drops #49 | https://www.youtube.com/watch?v=De5np8phQxo
 
+##  Autor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/loadingGabriel/">
+        <img src="https://avatars0.githubusercontent.com/u/49095200?s=460&u=c1bf40237efc7e4432b01f61cfac4dab28b189ec&v=4" width="100px;" alt="Gabriel Mendonça"/>
+        <br />
+        <sub>
+          <b>Gabriel Mendonça Pereira</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/" title="Code">@LoadingGabriel</a>
+    </td>
+  </tr>
+</table>
+**Curtiu a ideia?** deixe seu feedback é contribua!
