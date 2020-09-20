@@ -4,7 +4,7 @@
 Este é um repositório que tem objetivo de listar conteúdos de programação gratuitos por tópicos
 
 ## 📌 Tópicos
-* <a href="/#react-js">React JS</a>
+* <a href="https://github.com/loadingGabriel/playlist-youtube/blob/master/README.md#react-js">React JS</a>
 * <a href="">React Native</a>
 * <a href="">Nodejs</a>
 * <a href="">Html</a>
