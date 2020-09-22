@@ -5,11 +5,11 @@ Este é um repositório que tem objetivo de listar conteúdos de programação g
 
 ## 📌 Tópicos
 * <a href="https://github.com/loadingGabriel/playlist-youtube/blob/master/README.md#react-js">React JS</a>
-* <a href="">React Native</a>
+* <a href="https://github.com/loadingGabriel/playlist-youtube#react-native">React Native</a>
 * <a href="">Nodejs</a>
-* <a href="">Html</a>
+* <a href="https://github.com/loadingGabriel/playlist-youtube#html">Html</a>
 * <a href="">Css</a>
-* <a href="">Javascript</a>
+* <a href="https://github.com/loadingGabriel/playlist-youtube#javascript">Javascript</a>
 
 ## React JS
 Titulo    | Link
