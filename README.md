@@ -27,6 +27,7 @@ Interface da Twitch.tv no React Native UI Clone |https://www.youtube.com/watch?v
 Titulo    | Link
 --------- | ------
 HTML5 Canvas e JavaScript para manipular imagens CodeDrops #53 | https://www.youtube.com/watch?v=-RWPvVcYAC4
+Organização de código com Design Pattern Decorator Code/Drops | https://www.youtube.com/watch?v=r8v-eSWrvc0
 
 ## Javascript
 Titulo    | Link
