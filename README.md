@@ -17,6 +17,7 @@ Titulo    | Link
 Homepage Animada do Typeform com Framer Motion (ReactJS) UI Clone | https://www.youtube.com/watch?v=O2xM5H7Ooj4
 Página de produto do Mercado Livre com (ReactJS) UI Clone | https://www.youtube.com/watch?v=APs_xQ2hUOE
 LinkedIn e Shimmer Effect no ReactJS UI Clone | https://www.youtube.com/watch?v=-ZV-_7vNRGw
+Homepage da Tesla com ReactJS UI Clone | https://www.youtube.com/watch?v=Mf4Se4ZGcG8
 
 ## React Native
 Titulo    | Link
@@ -28,6 +29,7 @@ Titulo    | Link
 --------- | ------
 HTML5 Canvas e JavaScript para manipular imagens CodeDrops #53 | https://www.youtube.com/watch?v=-RWPvVcYAC4
 Organização de código com Design Pattern Decorator Code/Drops | https://www.youtube.com/watch?v=r8v-eSWrvc0
+7 Tags HTML que Você Precisa Conhecer Code/Drops #58 |https://www.youtube.com/watch?v=7pqp3IKyC0s
 
 ## Javascript
 Titulo    | Link
