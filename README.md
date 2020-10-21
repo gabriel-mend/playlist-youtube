@@ -8,7 +8,7 @@ Este é um repositório que tem objetivo de listar conteúdos de programação g
 * <a href="https://github.com/loadingGabriel/playlist-youtube#react-native">React Native</a>
 * <a href="">Nodejs</a>
 * <a href="https://github.com/loadingGabriel/playlist-youtube#html">Html</a>
-* <a href="">Css</a>
+* <a href="https://github.com/loadingGabriel/playlist-youtube#css">Css</a>
 * <a href="https://github.com/loadingGabriel/playlist-youtube#javascript">Javascript</a>
 
 ## React JS
