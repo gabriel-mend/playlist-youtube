@@ -31,6 +31,12 @@ HTML5 Canvas e JavaScript para manipular imagens CodeDrops #53 | https://www.you
 Organização de código com Design Pattern Decorator Code/Drops | https://www.youtube.com/watch?v=r8v-eSWrvc0
 7 Tags HTML que Você Precisa Conhecer Code/Drops #58 |https://www.youtube.com/watch?v=7pqp3IKyC0s
 
+## CSS
+Titulo    | Link
+--------- | ------
+Minicurso Animações CSS | https://www.youtube.com/watch?v=eTELLTacg-8&list=WL&index=1
+Dê super poderes ao CSS com SASS Masterclass #15 | https://www.youtube.com/watch?v=BaI8dHUthLA
+
 ## Javascript
 Titulo    | Link
 --------- | ------
